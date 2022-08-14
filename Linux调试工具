@@ -1,3 +1,7 @@
+Linux调试工具
+https://www.cnblogs.com/lidabo/p/4377545.html#:~:text=Linux%20%E5%B9%B3%E5%8F%B0%E4%B8%8A%E7%9A%84C%E8%AF%AD%E8%A8%80%E8%B0%83%E8%AF%95%E5%B7%A5%E5%85%B7%EF%BC%81%201%201.%20Dmalloc%20http%3A%2F%2Fdmalloc.com%2F%20...%202,5.%20Insight%20http%3A%2F%2Fsources.redhat.com%2Finsight%20...%206%206.%20Memprof%20http%3A%2F%2Fwww.gnome.org%2Fprojects%2Fmemprof
+
+
 1. 使用printf调试
 #ifdef DEBUG
 
