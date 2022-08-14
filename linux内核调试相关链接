@@ -1,1 +1,21 @@
 
+
+思维导图 https://www.processon.com/view/link/62a09494637689075856157e 密码 linux
+
+总结：
+
+事件源 Event Sources 硬件事件 静态探针 动态探针 
+
+https://blog.csdn.net/weixin_41028621/article/details/114239403  linux kprobe
+
+https://leezhenghui.github.io/linux/2019/03/05/exploring-usdt-on-linux.html  ZH's Pocket
+
+https://www.brendangregg.com/ebpf.html#bcc Linux Extended BPF （eBPF） Tracing Tools
+
+https://github.com/iovisor/bpftrace
+
+https://github.com/iovisor/bcc/blob/master/docs/tutorial_bcc_python_developer.md
+
+https://github.com/iovisor/bcc/blob/master/README.md
+
+https://cloud.tencent.com/developer/article/1876479 trace-cmd工具用法
